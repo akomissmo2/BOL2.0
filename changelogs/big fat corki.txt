@@ -1,2 +1,6 @@
 -- 2.00:
 		- release!
+		
+-- 2.01:
+		- added passive to ks dmg calculation
+		
