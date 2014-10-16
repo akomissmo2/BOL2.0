@@ -7,3 +7,5 @@
 		- changed some default menu values
 		- added whitelist
 		- added description
+-- 2.03:
+		- added kill announcer
