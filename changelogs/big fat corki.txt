@@ -1,11 +1,17 @@
 -- 2.00:
-		- release!
+		- release!		
 		
 -- 2.01:
 		- added passive to ks dmg calculation
+		
 -- 2.02:
 		- changed some default menu values
 		- added whitelist
 		- added description
+		
 -- 2.03:
 		- added kill announcer
+		
+-- 2.04:
+		- fixed target for spells issue. now should cast spells only on enemy champions
+		
