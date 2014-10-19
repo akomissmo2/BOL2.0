@@ -15,3 +15,6 @@
 -- 2.04:
 		- fixed target for spells issue. now should cast spells only on enemy champions
 		
+-- 2.05:
+		- better dmg calculation, thx spelldmg lib
+		
