@@ -1,5 +1,8 @@
 -- 2.00:
 		- release!		
 		
--- 2.00:
+-- 2.01:
 		- better dmg calculation, thx spelldmg lib
+		
+-- 2.02:
+		- fixed errors while loading screen

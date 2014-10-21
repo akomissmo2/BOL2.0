@@ -18,3 +18,6 @@
 -- 2.05:
 		- better dmg calculation, thx spelldmg lib
 		
+-- 2.06:
+		- fixed errors while loading screen
+		
